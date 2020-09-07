@@ -45,7 +45,7 @@
 
 |项目|描述|tag|
 |:---|:--|:--|
-|[qiankun](https://github.com/mowatermelon/test-qiankun-pureHtml)|https://alibaba.github.io/ice/block?type=vue，主要是做vue社区物料贡献，vue社区一共20个物料，我这边贡献了四个异常错误页面，和大部分图表示例代码(大概十个左右)|vue、alibaba、ice、echart、exception|
+|[qiankun](https://github.com/mowatermelon/test-qiankun-pureHtml)|在社区帮忙答疑，提有效 bug issue|jquery,qiankun,requirejs,ztree|
 |[ice 飞冰 - 让前端开发简单而友好](https://github.com/mowatermelon/ice/tree/melon-template/vue-materials/blocks)|https://alibaba.github.io/ice/block?type=vue，主要是做vue社区物料贡献，vue社区一共20个物料，我这边贡献了四个异常错误页面，和大部分图表示例代码(大概十个左右)|vue、alibaba、ice、echart、exception|
 |[scaffold-market](https://github.com/ant-design/scaffold-market/pull/171)|scaffold market for single page application，http://scaffold.ant.design/，主要是向社区提供了一个vue-admin模板，当时结合bootstrap和vue写的一个后台模板，主要写了五个通用组件。|vue、ant-design、scaffold-market、bootstrap、vue-router、vuex、localStorage|
 |[hexo-theme-melon](https://github.com/mowatermelon/hexo-theme-melon.git)|在hexo-theme-yilia主题基础上，个人定制一定样式，支持gitment的hexo主题，添加文章内容检索功能，修改了左侧目录区和右侧文章区相关宽度占比，修改之后的主题比较适合girl|hexo、sass、gulp、gitment、npm、ejs、git、webpack、yilia、vue|
