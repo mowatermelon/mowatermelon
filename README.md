@@ -6,6 +6,8 @@
 口头禅: 一朵小花.jpg<br>
 居住地址：5rmW5YyX5q2m5rGJ<br>
 
+![Stunning insights](https://repobeats.axiom.co/api/embed/ac99477d966b56598616a955e2fe8a30a90f109f.svg "Repobeats analytics image")
+
 <div width="30%" style="display:inline-block;overflow-x: auto;">
 
 ![mowatermelon's github stats](https://github-readme-stats.vercel.app/api?username=mowatermelon&show_icons=true&theme=onedark&bg_color=fff&hide_title=true)
@@ -24,6 +26,9 @@
 
 |项目|描述|tag|
 |:---|:--|:--|
+|[up-video](https://github.com/mowatermelon/up-video)|基于mdui , egg 和 b 站 api 的UP 更新日历，支持发布视频的详细预览，支持全年日历的切换。|egg、bilibili-api、mdui、calender|
+|[mw2-antd](https://github.com/mowatermelon/mw2-antd)|基于 antd 的 midwayjs V2 静态项目 函数计算发布案例|middway V2、typescript、umi、antd、static-server|
+|[mwegg](https://github.com/mowatermelon/mwegg)|基于 middway + egg + typeorm + swagger 的后端服务项目|middway V2、typescript、egg、typeorm、swagger|
 |[watermelon-todolist](https://github.com/mowatermelon/learn-electron.git)|基于electron，localstorage和vue的todolist桌面应用，默认有三个背景色可切换。支持基础任务添加，关闭和删除。|electron、todolist、vue、localstorage|
 |[vue-admin](https://github.com/mowatermelon/vue-admin.git)|基于axios，bootstrap，vue-router，webpack和express等等的基础vue后台控制模板，默认有三个颜色主题可切换。|axios、vue、vue-router、webpack、vue-admin、express、mo-theme、vuex、localstorage|
 |[vue-ersi](https://github.com/mowatermelon/vue-ersi.git)|基于axios，Element UI，vue-router，esri，webpack和express等等地图后台操作模板。|axios、vue、vue-router、webpack、express、vuex、localstorage、dojo、arcgis-js-api-4、arcgis-js-api-3d|
@@ -45,6 +50,9 @@
 
 |项目|描述|tag|
 |:---|:--|:--|
+|[xgplayer](https://github.com/bytedance/xgplayer)|修改文档说明错误|video|
+|[pipcook](https://github.com/alibaba/pipcook)|修改文档说明错误|machine-learning、js|  
+|[midwayjs](https://github.com/midwayjs/midway)|在社区帮忙答疑，提有效 bug issue|midwayjs,eggjs|
 |[qiankun](https://github.com/mowatermelon/test-qiankun-pureHtml)|在社区帮忙答疑，提有效 bug issue|jquery,qiankun,requirejs,ztree|
 |[ice 飞冰 - 让前端开发简单而友好](https://github.com/mowatermelon/ice/tree/melon-template/vue-materials/blocks)|https://alibaba.github.io/ice/block?type=vue，主要是做vue社区物料贡献，vue社区一共20个物料，我这边贡献了四个异常错误页面，和大部分图表示例代码(大概十个左右)|vue、alibaba、ice、echart、exception|
 |[scaffold-market](https://github.com/ant-design/scaffold-market/pull/171)|scaffold market for single page application，http://scaffold.ant.design/，主要是向社区提供了一个vue-admin模板，当时结合bootstrap和vue写的一个后台模板，主要写了五个通用组件。|vue、ant-design、scaffold-market、bootstrap、vue-router、vuex、localStorage|
